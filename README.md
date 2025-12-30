@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Xuan Hoang</h1>
 
-<p align="center">
+<h3 align="center">
   Computer Science Student · Minor in Game Engineering
-</p>
+</h3>
 
 <p align="center">📍 Living in Canada | 💼 Open for Internship Opportunities</p>
 
