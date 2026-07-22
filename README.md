@@ -4,7 +4,7 @@
   Computer Science Student · Minor in Game Engineering
 </h3>
 
-<p align="center">📍 Living in Canada | 💼 Open for Internship Opportunities</p>
+<p align="center">📍 Living in Canada</p>
 
 <p align="center">
   <a href="https://xuanhoang.space" target="_blank">
